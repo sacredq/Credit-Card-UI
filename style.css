@@ -1,0 +1,73 @@
+.setcolor{
+    background-color: rgba(140, 212, 212, 0.39); color: white;
+}
+
+.card{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.container{
+    position: relative;
+    width: 605px; height: 280px; 
+    background-color: rgb(5, 5, 5); 
+    border-radius: 30px;
+}
+
+.circles{
+    margin-left: 35px;
+    display: flex;
+    margin-bottom: 35px;
+    
+}
+
+.circles .red{
+    margin-top: 20px;
+    width: 40px; height: 40px; 
+    background-color: red;
+    border-radius: 50%;
+}
+
+.circles .yellow{
+    margin-top: 20px;
+    margin-left: -20px;
+    width: 40px; height: 40px; 
+    background-color: orange; opacity: 0.8;
+    border-radius: 50%;
+}
+
+#Master{
+    font-size: 28px;
+    margin-left: 15px;
+    
+}
+
+.Card_info{
+    margin-left: 35px;
+}
+
+#User{
+    margin-top: 45px; font-size: 24px;
+}
+
+.container .chip img{
+    width: 90px; height: 55px; 
+    position: absolute;
+    top: 12%; left: 80%;
+}
+
+#Valid{
+    margin-left: 430px;
+    margin-top: -80px;
+    font-size: 22px;
+}
+
+#data{
+    margin-top: -12px;
+    margin-left: 430px;
+    font-size: 22px;
+}
+
